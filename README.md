@@ -1,37 +1,27 @@
 # Retail Sales Analytics 📊
 
+An end-to-end retail sales analytics project using **SQL, Python, and Power BI** to analyze sales performance, revenue, products, regions, categories, and payment methods.
+
 ## 📌 Project Overview
 
-Retail Sales Analytics is an end-to-end data analytics project that analyzes retail sales data and converts raw data into meaningful business insights.
+This project analyzes a retail sales dataset to identify important business insights such as:
 
-The project uses SQL, Python, and Power BI for data analysis, visualization, and interactive reporting.
+- Total revenue and orders
+- Product-wise sales performance
+- Category-wise revenue
+- Region-wise revenue
+- Payment method performance
+- Monthly sales trends
+- Average Order Value (AOV)
 
----
-
-## 🎯 Business Objectives
-
-- Analyze overall sales performance
-- Identify top-performing products
-- Compare revenue across categories
-- Analyze regional sales performance
-- Understand customer purchasing behavior
-- Analyze payment method performance
-- Identify monthly revenue trends
-- Generate actionable business insights
-
----
+The project demonstrates the complete data analytics workflow from data preparation and analysis to dashboard visualization.
 
 ## 🛠️ Tools & Technologies
 
-- SQL / MySQL
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Power BI
-- GitHub
-
----
+- **Python** – Pandas, NumPy, Matplotlib
+- **SQL** – Data analysis and business queries
+- **Power BI** – Interactive dashboard and visualization
+- **CSV** – Dataset
 
 ## 📂 Project Structure
 
@@ -41,16 +31,14 @@ Retail-Sales-Analytics/
 ├── data/
 │   └── sales.csv
 │
-├── powerbi/
-│   └── Sales_Analysis_Dashboard.pbix
-│
 ├── python/
 │   └── sales_analysis.py
-│
-├── screenshots/
-│   └── dashboard.png
 │
 ├── sql/
 │   └── sales_analysis.sql
 │
-└── README.md
+├── powerbi/
+│   └── Sales_Analysis_Dashboard.pbix
+│
+└── screenshots/
+    └── dashboard.png
