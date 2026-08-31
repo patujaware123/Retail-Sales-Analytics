@@ -1,0 +1,21 @@
+order_id,customer_name,category,product,price,quantity,region,payment_method,order_date,revenue
+1001,Aarav,Electronics,Laptop,15000,3,North,Credit Card,2026-01-05,45000
+1002,Priya,Electronics,Monitor,9500,2,South,UPI,2026-01-07,19000
+1003,Rohan,Electronics,Printer,12000,3,East,Debit Card,2026-01-10,36000
+1004,Sneha,Furniture,Sofa,12000,2,West,Cash,2026-01-12,24000
+1005,Aditya,Furniture,Office Chair,8000,3,North,Credit Card,2026-01-15,24000
+1006,Neha,Electronics,Keyboard,7000,2,South,UPI,2026-01-18,14000
+1007,Rahul,Home,Table Lamp,9000,2,East,Cash,2026-01-20,18000
+1008,Ananya,Electronics,Mouse,5000,2,North,Credit Card,2026-01-23,10000
+1009,Vikram,Furniture,Bookshelf,6000,2,West,Debit Card,2026-01-25,12000
+1010,Kavya,Home,Coffee Maker,4000,2,South,UPI,2026-01-28,8000
+1011,Ishaan,Electronics,Laptop,15000,3,North,UPI,2026-02-02,45000
+1012,Meera,Electronics,Printer,9000,3,East,Credit Card,2026-02-05,27000
+1013,Arjun,Furniture,Office Chair,8000,2,South,Cash,2026-02-08,16000
+1014,Pooja,Electronics,Monitor,5000,2,West,Debit Card,2026-02-10,10000
+1015,Karan,Home,Wall Clock,7000,2,East,UPI,2026-02-12,14000
+1016,Simran,Electronics,Keyboard,6000,2,North,Credit Card,2026-02-15,12000
+1017,Manish,Furniture,Sofa,3000,2,South,UPI,2026-02-18,6000
+1018,Riya,Electronics,Mouse,5000,1,West,Credit Card,2026-02-20,5000
+1019,Nikhil,Home,Table Lamp,4000,1,East,Cash,2026-02-23,4000
+1020,Sakshi,Furniture,Bookshelf,8000,2,North,Debit Card,2026-02-28,16000
