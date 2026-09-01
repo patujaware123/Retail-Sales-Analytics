@@ -40,3 +40,14 @@ Retail-Sales-Analytics/
 ├── sales_analysis.sql
 ├── Sales_Analysis_Dashboard.pbix
 └── dashboard.png
+
+## 📊 Key KPIs
+
+| KPI | Value |
+|---|---:|
+| Total Orders | 20 |
+| Total Quantity | 43 |
+| Total Revenue | ₹365,000 |
+| Average Order Value | ₹18,250 |
+
+---
