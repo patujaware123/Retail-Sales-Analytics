@@ -51,3 +51,9 @@ Retail-Sales-Analytics/
 | Average Order Value | ₹18,250 |
 
 ---
+
+## 📸 Dashboard Preview
+
+![Sales Analysis Dashboard](dashboard.png)
+
+---
