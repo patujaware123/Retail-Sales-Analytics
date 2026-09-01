@@ -14,7 +14,9 @@ This project analyzes a retail sales dataset to identify important business insi
 - Monthly sales trends
 - Average Order Value (AOV)
 
-The project demonstrates the complete data analytics workflow from data preparation and analysis to dashboard visualization.
+The project demonstrates the complete data analytics workflow from raw data to business insights and dashboard visualization.
+
+---
 
 ## 🛠️ Tools & Technologies
 
@@ -22,23 +24,18 @@ The project demonstrates the complete data analytics workflow from data preparat
 - **SQL** – Data analysis and business queries
 - **Power BI** – Interactive dashboard and visualization
 - **CSV** – Dataset
+- **GitHub** – Project documentation and version control
+
+---
 
 ## 📂 Project Structure
 
 ```text
 Retail-Sales-Analytics/
 │
-├── data/
-│   └── sales.csv
-│
-├── python/
-│   └── sales_analysis.py
-│
-├── sql/
-│   └── sales_analysis.sql
-│
-├── powerbi/
-│   └── Sales_Analysis_Dashboard.pbix
-│
-└── screenshots/
-    └── dashboard.png
+├── README.md
+├── sales.csv
+├── sales_analysis.py
+├── sales_analysis.sql
+├── Sales_Analysis_Dashboard.pbix
+└── dashboard.png
